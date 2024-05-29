@@ -18,6 +18,7 @@ collecting data, organizing and storing data, analyzing data, and then visually 
 
 # Main Page
 part_1_mars_news_final: webs scraping for Mars news articles
+
 part_2_mars_weather_final: analyzing Mars weather data
 
 # Contributors
